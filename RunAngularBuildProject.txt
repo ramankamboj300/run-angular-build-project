@@ -1,0 +1,6 @@
+Run angular project 
+
+npm install http-server
+ng build 
+cd dist/projectName
+http-server
